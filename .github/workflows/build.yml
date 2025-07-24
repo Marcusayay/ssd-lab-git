@@ -1,4 +1,4 @@
-name: Build
+name: Selenium Tests Workflow
 
 on:
   push:
