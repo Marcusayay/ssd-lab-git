@@ -1,3 +1,4 @@
+/* global process */
 import { Builder, By, until } from 'selenium-webdriver';
 import assert from 'assert';
 
